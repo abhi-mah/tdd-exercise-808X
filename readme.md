@@ -1,4 +1,5 @@
 [![Build Status](https://app.travis-ci.com/Sameep2808/tdd-exercise-808X.svg?branch=main)](https://app.travis-ci.com/Sameep2808/tdd-exercise-808X)
+[![Coverage Status](https://coveralls.io/repos/github/Sameep2808/tdd-exercise-808X/badge.svg?branch=main)](https://coveralls.io/github/Sameep2808/tdd-exercise-808X?branch=main)
 # C++ Boilerplate
 ## Overview
 
