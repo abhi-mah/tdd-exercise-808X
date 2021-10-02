@@ -1,5 +1,5 @@
-![Build Status](https://app.travis-ci.com/advaitp/PID-CONTROLLER.svg?branch=main)
-[![Coverage Status](https://coveralls.io/repos/github/advaitp/PID-CONTROLLER/badge.svg?branch=main)](https://coveralls.io/github/advaitp/PID-CONTROLLER?branch=main)
+[![Build Status](https://app.travis-ci.com/Sameep2808/tdd-exercise-808X.svg?branch=main)](https://app.travis-ci.com/Sameep2808/tdd-exercise-808X)
+[![Coverage Status](https://coveralls.io/repos/github/Sameep2808/tdd-exercise-808X/badge.svg?branch=main)](https://coveralls.io/github/Sameep2808/tdd-exercise-808X?branch=main)
 # C++ Boilerplate
 ## Overview
 
@@ -14,7 +14,7 @@ Navigator : Advait Patole
 
 ## Standard install via command-line
 ```
-git clone --recursive https://github.com/advaitp/PID-CONTROL-PART1.git
+git clone --recursive https://github.com/Sameep2808/tdd-exercise-808X.git
 cd <path to repository>
 mkdir build
 cd build
@@ -41,7 +41,7 @@ In your Eclipse workspace directory (or create a new one), checkout the repo (an
 ```
 mkdir -p ~/workspace
 cd ~/workspace
-git clone --recursive https://github.com/advaitp/PID-CONTROL-PART1.git
+git clone --recursive https://github.com/Sameep2808/tdd-exercise-808X.git
 ```
 
 In your work directory, use cmake to create an Eclipse project for an [out-of-source build] of cpp-boilerplate
@@ -50,7 +50,7 @@ In your work directory, use cmake to create an Eclipse project for an [out-of-so
 cd ~/workspace
 mkdir -p boilerplate-eclipse
 cd boilerplate-eclipse
-cmake -G "Eclipse CDT4 - Unix Makefiles" -D CMAKE_BUILD_TYPE=Debug -D CMAKE_ECLIPSE_VERSION=4.7.0 -D CMAKE_CXX_COMPILER_ARG1=-std=c++14 ../cpp-boilerplate/
+cmake -G "Eclipse CDT4 - Unix Makefiles" -D CMAKE_BUILD_TYPE=Debug -D CMAKE_ECLIPSE_VERSION=4.7.0 -D CMAKE_CXX_COMPILER_ARG1=-std=c++14 ../tdd-exercise-808X/
 ```
 
 ## Import
