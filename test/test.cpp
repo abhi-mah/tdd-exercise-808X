@@ -31,6 +31,42 @@ ASSERT_DOUBLE_EQ(13.6, con.compute(4.0, 8.0));
  * @param    should_pass shows what function passes test case
  * @return   none
  */
-TEST(pid_get_error, should_pass) {
+TEST(pid_get_error1, should_pass) {
 ASSERT_DOUBLE_EQ(1, con.get_error(5.0, 4.0));
 }
+
+
+/**
+ * @brief    the function tests if the function get_error behaves right
+ * @param    pid_get_error is test name
+ * @param    should_pass shows what function passes test case
+ * @return   none
+ */
+TEST(pid_get_error2, should_pass) {
+ASSERT_DOUBLE_EQ(6, con.get_error(10.0, 4.0));
+}
+
+
+/**
+ * @brief    the function tests if the function get_error behaves right
+ * @param    pid_get_error is test name
+ * @param    should_pass shows what function passes test case
+ * @return   none
+ */
+TEST(pid_get_error3, should_pass) {
+ASSERT_DOUBLE_EQ(-5, con.get_error(5.0, 10.0));
+}
+
+
+/**
+ * @brief    the function tests if the function get_error behaves right
+ * @param    pid_get_error is test name
+ * @param    should_pass shows what function passes test case
+ * @return   none
+ */
+TEST(pid_get_error4, should_pass) {
+ASSERT_DOUBLE_EQ(0, con.get_error(5.0, 5.0));
+}
+
+
+
