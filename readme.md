@@ -9,9 +9,13 @@ Simple starter C++ project with:
 - googletest
 
 **Authors :**\
+Part 1:
 Driver : Sameep Pote \
 Navigator : Advait Patole
 
+Part 2:
+Driver : Abhijit Mahalle \
+Navigator : Gaurav Raut
 ## Standard install via command-line
 ```
 git clone --recursive https://github.com/Sameep2808/tdd-exercise-808X.git
