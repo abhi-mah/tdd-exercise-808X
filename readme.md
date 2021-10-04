@@ -11,7 +11,7 @@ Simple starter C++ project with:
 **Authors :**\
 Part 1:\
 Driver : Sameep Pote \
-Navigator : Advait Patole \
+Navigator : Advait Patole 
 
 Part 2: \
 Driver : Abhijit Mahalle \
