@@ -9,9 +9,9 @@ Simple starter C++ project with:
 - googletest
 
 **Authors :**\
-Part 1:
+Part 1:\
 Driver : Sameep Pote \
-Navigator : Advait Patole \
+Navigator : Advait Patole \\
 Part 2: \
 Driver : Abhijit Mahalle \
 Navigator : Gaurav Raut
