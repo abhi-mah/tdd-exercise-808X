@@ -9,8 +9,13 @@ Simple starter C++ project with:
 - googletest
 
 **Authors :**\
-Driver : Sameep Pote \
+Part 1:
+Driver : Sameep Pote 
 Navigator : Advait Patole
+Part 2:
+Driver : Abhijit Mahalle 
+Navigator : Gaurav Raut
+
 
 ## Standard install via command-line
 ```
